@@ -1,0 +1,1 @@
+This folder contains all JSON files used in this project
