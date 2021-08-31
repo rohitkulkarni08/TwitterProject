@@ -1,7 +1,0 @@
--remove any pronouns
--alignment
--intro: Remove Hiphen
--Remove annotations
--braces (h)
-Et. Al First Author Name: Paper Number: Start explaining
--outcome according to objectives
